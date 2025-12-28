@@ -1,3 +1,4 @@
-# alyxia.dev
+# Archived Project
 
-Personal website using Astro.
+This project is intentionally archived.
+All files were removed and may be rebuilt in the future.
